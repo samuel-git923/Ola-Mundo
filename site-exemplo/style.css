@@ -56,3 +56,15 @@ body .github-image {
     margin: 0 auto;
     max-width: 740px;
 }   
+
+.menus-github a {
+    display: flex;
+    flex-direction: column;
+    font-size: x-large;
+    text-align: center;
+}
+
+.menus-github a:hover {
+    color: red;
+    transition: 0.5s;
+}
