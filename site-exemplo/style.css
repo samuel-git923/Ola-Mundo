@@ -68,3 +68,10 @@ body .github-image {
     color: red;
     transition: 0.5s;
 }
+
+.main-page a {
+    display: flex;
+    justify-content: flex-end;
+    border: none;
+    align-items: center;
+}
